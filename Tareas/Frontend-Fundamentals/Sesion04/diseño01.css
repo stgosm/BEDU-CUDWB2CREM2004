@@ -1,0 +1,24 @@
+.container {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    margin: 10px;
+  }
+  
+  /* Flexbox */
+  .container-mayor {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+  }
+  
+  /* Grid Layout */
+  /*
+  .container-mayor {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  */
+  
